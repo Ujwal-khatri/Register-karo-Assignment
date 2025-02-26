@@ -11,7 +11,8 @@ This project was built as part of my **Frontend Developer Assessment**, where I 
 - **Deployed on Vercel** for real-world accessibility.
 
 ## 🚀 Live Project
-🔗 [View My Live Deployment](#) *(Replace with Vercel link after deployment)*
+🔗 https://register-karo-832sjljyr-ujwals-projects-ce4678c9.vercel.app
+
 
 ## 📸 Screenshots
 ### **Figma vs. My Implementation**
@@ -30,7 +31,8 @@ My Assignment design for mediam devices
 ![Assignment Design](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/aa418e9bd0d266136bb6c7a91a786ef2192f9f61/image.png)
 
 ### **PageSpeed Insights Score**
-_(Attach screenshots for performance evaluation)_
+
+![PageSpeed Insights Score](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/8af1caa699a14ac90b260e8d7229b9a0e0f233ec/image.png)
 
 ## 🛠️ Tech Stack Used
 - **React.js** (for UI development)
