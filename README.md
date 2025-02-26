@@ -18,6 +18,8 @@ This project was built as part of my **Frontend Developer Assessment**, where I 
 Figma Design
 ![Figma Design](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/df54b64af3a398803926f7545405226b7ef2c29c/image.png)
 
+My Assignment design for large devices
+![Assignment Design](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/c1dc65e52d80bbadac2a1b9656ff49c5332673b5/image.png)
 ### **PageSpeed Insights Score**
 _(Attach screenshots for performance evaluation)_
 
