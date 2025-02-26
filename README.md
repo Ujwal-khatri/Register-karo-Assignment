@@ -1,0 +1,97 @@
+# My Frontend Developer Assignment
+
+## 📝 About This Project
+This project was built as part of my **Frontend Developer Assessment**, where I was required to develop a **homepage UI** based on the provided **Figma design**. The goal was to ensure **design accuracy, responsiveness, and performance optimization** while deploying the project on **Vercel**.
+
+## 🎯 My Approach
+- **React.js** for a modular and scalable structure.
+- **CSS** to ensure pixel-perfect styling.
+- **Media Queries** for full **responsiveness** across different screen sizes.
+- **Optimized Performance** to meet **90+ PageSpeed Insights score**.
+- **Deployed on Vercel** for real-world accessibility.
+
+## 🚀 Live Project
+🔗 [View My Live Deployment](#) *(Replace with Vercel link after deployment)*
+
+## 📸 Screenshots
+### **Figma vs. My Implementation**
+![Figma Design](assets/figma.png)
+
+### **PageSpeed Insights Score**
+_(Attach screenshots for performance evaluation)_
+
+## 🛠️ Tech Stack Used
+- **React.js** (for UI development)
+- **CSS** (for styling)
+- **Vercel** (for deployment)
+
+## 📂 Project Structure
+```
+├── src/
+│   ├── components/
+│   │   ├── Arrowfigur.jsx
+│   │   ├── Background.jsx
+│   │   ├── Boldtxt.jsx
+│   │   ├── Googlerating.jsx
+│   │   ├── Imformation.jsx
+│   │   ├── Infobutton.jsx
+│   │   ├── Pagepara.jsx
+│   │   ├── Redline.jsx
+│   │   ├── RightAnimation.jsx
+│   │   ├── Rightfigure.jsx
+│   │   ├── RKclients.jsx
+│   │   ├── Sidebar.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   ├── main.jsx
+│
+├── public/
+│   ├── index.html
+│
+├── package.json
+├── README.md (This file)
+```
+
+## 🛠️ How to Run My Project
+### 1️⃣ Clone the Repository
+```bash
+git clone <repo-url>
+cd frontend-assignment
+```
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+### 3️⃣ Run Development Server
+```bash
+npm run dev
+```
+### 4️⃣ Deploy on Vercel
+```bash
+vercel deploy
+```
+
+## 📌 Key Takeaways & Challenges
+✔ Ensuring **pixel-perfect accuracy** based on the Figma design.  
+✔ Implementing **optimized, reusable components** in React.  
+✔ Ensuring **responsiveness** for various screen sizes.  
+✔ Debugging **performance issues** to meet **90+ PageSpeed Score**.  
+✔ Successfully deploying the project on **Vercel**.  
+
+## 🚀 Next Steps
+- [ ] **Fine-tune animations and micro-interactions** for better UX.
+- [ ] **Optimize images further** to reduce load time.
+- [ ] **Enhance documentation** with additional notes on challenges faced.
+
+## 📬 Contact Me
+If you have any feedback or suggestions, feel free to reach out!
+
+---
+
+### ✅ Final Checklist Before Submission
+- [ ] **Live Deployment on Vercel** ✅
+- [ ] **Screenshots for PageSpeed Insights** ✅
+- [ ] **Push to GitHub & update repo link** ✅
+
+🎯 Proudly built for my Frontend Developer Assessment! 🚀
