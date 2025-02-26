@@ -20,6 +20,10 @@ Figma Design
 
 My Assignment design for large devices
 ![Assignment Design](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/c1dc65e52d80bbadac2a1b9656ff49c5332673b5/image.png)
+
+For small deviices
+![Assignment Design](https://github.com/Ujwal-khatri/Register-karo-Assignment/blob/9b3aa81eed671b497d0beec6a9bc36617911bde9/image.png)
+
 ### **PageSpeed Insights Score**
 _(Attach screenshots for performance evaluation)_
 
